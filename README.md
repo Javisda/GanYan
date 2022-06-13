@@ -1,4 +1,5 @@
 <H1>GAN YAN</H1>
+<p>I have cloned this project because i wanted it to be in my profile. I'm on the right to do it as I´m part of the team. Original post is here https://github.com/OkupaSofware/GANYANGAME</p>
 <p align="center"> 
 
   <img src="https://user-images.githubusercontent.com/91082053/136620736-d97a34ce-4869-40c9-9c0e-c1fc8e1b4e8d.png">
@@ -64,7 +65,6 @@ El programa NO esta preparado para gestionar el servidor en la escena de partida
 <p>-Javier Serrano: https://github.com/Javinigadela, j.serranod.2019@alumnos.urjc.es.</p> 
 <p>-Alejandro Anton: https://github.com/aantonb2018, a.antonb.2018@alumnos.urjc.es</p>
 
-<p>TRELLO: https://trello.com/b/7AF4IbZy/ganyan</P>
 <p>GDD EN REPOSITORIO</p>
 
 <H2>REDES</H2>
